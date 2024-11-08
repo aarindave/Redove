@@ -372,8 +372,8 @@
     <Compile Include="Library/PackageCache/com.unity.visualscripting/Editor/VisualScripting.Core/Platforms/MemberInfoStubWriter.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting/Editor/VisualScripting.Core/Descriptors/IDescription.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting/Editor/VisualScripting.Core/Inspection/Reflection/NamespaceInspector.cs" />
-    <Compile Include="Library/PackageCache/com.unity.visualscripting/Editor/VisualScripting.Core/Reflection/LooseAssemblyNameOption.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting/Editor/VisualScripting.Core/Inspection/InspectorAttribute.cs" />
+    <Compile Include="Library/PackageCache/com.unity.visualscripting/Editor/VisualScripting.Core/Reflection/LooseAssemblyNameOption.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting/Editor/VisualScripting.Core/Utilities/EditorSerializationUtility.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting/Editor/VisualScripting.Core/Meta/MemberMetadata.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting/Editor/VisualScripting.Core/Dependencies/ReorderableList/ElementAdderMenu/ElementAdderMenuBuilder.cs" />

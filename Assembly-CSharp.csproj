@@ -1086,13 +1086,13 @@
       <Project>{1ab58a95-2916-134b-559d-449663b7d82e}</Project>
       <Name>Unity.VisualScripting.State.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{8511eb6d-8253-6123-1621-772551bc8691}</Project>
-      <Name>Unity.Mathematics</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.XR.OpenXR.Editor.csproj">
       <Project>{e03e1536-afcd-aadf-328e-b8f04834416f}</Project>
       <Name>Unity.XR.OpenXR.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.csproj">
+      <Project>{8511eb6d-8253-6123-1621-772551bc8691}</Project>
+      <Name>Unity.Mathematics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
       <Project>{6f4bbc16-016c-1165-e0ae-a5d8b65cb4ab}</Project>
